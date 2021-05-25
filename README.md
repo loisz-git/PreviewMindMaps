@@ -1,5 +1,5 @@
 # PreviewMindMaps
-Preview Mind Maps File (.mmap) for iOS
+Preview Mind Maps File (.mmap) for iOS Demo
 
 ## 1. .mmap文件
 
@@ -13,4 +13,4 @@ MindManager生成的思维导图文件格式，长这样：
 
 ![screenshot.png](https://github.com/loisz-git/PreviewMindMaps/blob/main/PreviewMMap/WechatIMG182.jpeg?raw=true)
 
-我们可以取里面的png或者pdf文件来进行预览。
+我们可以取里面的png或者pdf文件来进行预览。详情查看Demo。
